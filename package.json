@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nclBaz/strive-m8-d2-jan22#readme",
   "dependencies": {
+    "atob": "^2.1.2",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "express": "^4.18.1",
